@@ -1,0 +1,101 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+307 /sn/app/login/login,1,29,29,29,29,29,29,29,0.000%,34.48276,187.20,13.17
+325 /sn/app/Login/AttemptLogin,1,608,608,608,608,608,608,608,0.000%,1.64474,19.35,2.70
+351 /sn/app/CRMNextCache/CustomNavigation,1,21,21,21,21,21,21,21,0.000%,47.61905,80.08,29.48
+352 /sn/app/CRMNextCache/CustomHeader,1,33,33,33,33,33,33,33,0.000%,30.30303,106.39,18.61
+353 /sn/app/CustomView/SaveCutomViewPRSSettings,1,30,30,30,30,30,30,30,0.000%,33.33333,11.98,21.58
+356 /sn/app/CRMNextCache/GetTeamTree,1,17,17,17,17,17,17,17,0.000%,58.82353,86.17,34.24
+358 /sn/app/Media/ObjectImage,1,355,355,355,355,355,355,355,0.000%,2.81690,10.33,1.58
+364 /sn/app/Media/ObjectImage,1,15,15,15,15,15,15,15,0.000%,66.66667,244.53,37.30
+355 /sn/app/CustomView/GetFilterCombo,1,22,22,22,22,22,22,22,0.000%,45.45455,16.34,27.43
+365 /sn/app/CRMNextObject/Home/Contract,1,809,809,809,809,809,809,809,0.000%,1.23609,19.02,0.76
+368 /sn/app/CRMNextCache/CustomNavigation,1,20,20,20,20,20,20,20,0.000%,50.00000,84.08,31.10
+369 /sn/app/CRMNextCache/GetTeamTree,1,16,16,16,16,16,16,16,0.000%,62.50000,91.55,36.62
+372 /sn/app/CustomView/SaveCutomViewPRSSettings,1,30,30,30,30,30,30,30,0.000%,33.33333,11.98,21.74
+373 /sn/app/CustomView/GetFilterCombo,1,21,21,21,21,21,21,21,0.000%,47.61905,34.88,29.06
+381 /sn/app/crmnextobject/detail/Contract,1,814,814,814,814,814,814,814,0.000%,1.22850,31.39,0.81
+404 /sn/app/CRMNextCache/CustomNavigation,1,21,21,21,21,21,21,21,0.000%,47.61905,80.08,37.90
+406 /sn/app/CRMNextCache/GetTeamTree,1,16,16,16,16,16,16,16,0.000%,62.50000,91.55,47.42
+412 /sn/app/screenFlow/GetHoverOnScreenFlowActions?x=qqzna4xjnksjyfa2fpnbmg3k4j7nstrw6huuvkdjclzr2hhhhfa3m23q5nfvk6ty,1,42,42,42,42,42,42,42,0.000%,23.80952,391.23,20.95
+413 /sn/app/ScreenFlow/RunFlow,1,689,689,689,689,689,689,689,0.000%,1.45138,88.37,1.34
+421 /sn/app/CRMNextCache/CustomNavigation,1,24,24,24,24,24,24,24,0.000%,41.66667,70.07,36.66
+422 /sn/app/CRMNextControl/GetMultiLevelOptions,1,22,22,22,22,22,22,22,0.000%,45.45455,18.51,46.25
+430 /sn/app/globals/pickerhelper.aspx/GetAssignedToUser,1,60,60,60,60,60,60,60,0.000%,16.66667,9.98,35.69
+431 /sn/app/CRMNextControl/ResolveSubCategoryTemplate?id=275,1,404,404,404,404,404,404,404,0.000%,2.47525,1.69,54.07
+432 /sn/app/CRMnextControl/GetHelpMessageText?trgfield=subcategory1&trgvalue=275,1,618,618,618,618,618,618,618,0.000%,1.61812,0.58,35.38
+434 /sn/app/ScreenFlow/FireTrigger?command=2_1_324521_dbee5804-3956-4cdb-9a05-15980efb1ffc&isSaveNew=false&isEndCall=false&isPopupWindow=0&isPrompted=0&IsAutoSave=undefined&isfreeflowsave=false&IsSaveandcontinue=false,1,3182,3182,3182,3182,3182,3182,3182,0.000%,.31427,17.38,6.90
+437 /sn/app/CRMNextCache/CustomNavigation,1,31,31,31,31,31,31,31,0.000%,32.25806,54.25,37.46
+444 /sn/app/ScreenFlow/FireTrigger?command=2_2_324521_1d83d557-7ed7-4d40-a82a-d88f4fb3b8dc&isSaveNew=false&isEndCall=false&isPopupWindow=0&isPrompted=0&IsAutoSave=undefined&initialStatusCodeId=-1&isfreeflowsave=false&IsSaveandcontinue=false,1,9095,9095,9095,9095,9095,9095,9095,0.000%,.10995,2.44,2.27
+445 /sn/app/crmnextobject/detail/Case,1,889,889,889,889,889,889,889,0.000%,1.12486,23.86,1.40
+446 /sn/app/CRMNextCache/CustomNavigation,1,22,22,22,22,22,22,22,0.000%,45.45455,76.44,47.72
+447 /sn/app/CRMNextCache/GetTeamTree,1,321,321,321,321,321,321,321,0.000%,3.11526,4.56,3.16
+448 /sn/app/login/logout,1,42,42,42,42,42,42,42,0.000%,23.80952,146.41,46.67
+449 /sn/app/login/login,1,16,16,16,16,16,16,16,0.000%,62.50000,334.66,60.67
+465 /sn/app/Login/AttemptLogin?logout=1,1,411,411,411,411,411,411,411,0.000%,2.43309,26.23,6.13
+467 /sn/app/CRMNextCache/CustomNavigation,1,23,23,23,23,23,23,23,0.000%,43.47826,67.98,44.96
+468 /sn/app/CRMNextCache/CustomHeader,1,25,25,25,25,25,25,25,0.000%,40.00000,99.26,41.17
+469 /sn/app/CustomView/SaveCutomViewPRSSettings,1,28,28,28,28,28,28,28,0.000%,35.71429,12.83,37.98
+471 /sn/app/CRMNextCache/GetTeamTree,1,918,918,918,918,918,918,918,0.000%,1.08932,1.60,1.09
+470 /sn/app/CustomView/GetFilterCombo,1,324,324,324,324,324,324,324,0.000%,3.08642,1.11,3.15
+LoginwithScrutiny1,1,1729,1729,1729,1729,1729,1729,1729,0.000%,.35907,6.11,2.75
+472 /sn/app/CustomView/SaveCutomViewPRSSettings,1,40,40,40,40,40,40,40,0.000%,25.00000,8.98,26.61
+473 /sn/app/CustomView/PrepareColumnsAdnDataField,1,347,347,347,347,347,347,347,0.000%,2.88184,29.10,3.59
+475 /sn/app/CustomView/GetViewData,1,193,193,193,193,193,193,193,0.000%,5.18135,321.91,7.02
+474 /sn/app/CustomView/GetViewData,1,457,457,457,457,457,457,457,0.000%,2.18818,135.95,2.97
+476 /sn/app/CRMNextObject/Edit/Case,1,757,757,757,757,757,757,757,0.000%,1.32100,84.07,1.44
+478 /sn/app/CRMNextCache/GetTeamTree,1,16,16,16,16,16,16,16,0.000%,62.50000,91.55,66.89
+477 /sn/app/CRMNextCache/CustomNavigation,1,21,21,21,21,21,21,21,0.000%,47.61905,74.45,52.64
+OpenCaseedit,1,1831,1831,1831,1831,1831,1831,1831,0.000%,.09217,18.56,0.76
+479 /sn/app/globals/pickerhelper.aspx/GetAssignedToUser,1,54,54,54,54,54,54,54,0.000%,18.51852,7.96,31.36
+480 /sn/app/Picker/Picker?x=fvtqqtz5gymm25893my7g9mq2p6bn2cbu5wv53clj2hsrwf5pzbg98qt5e33s8tabbhndl8bna62gvvmga5uu3rpsvt5lsgbbzzf2bkedh2h2ataglcjq7u3auf5kqyg4zpg2m2nkb66e9agbtg8xnl386cgua3yrlggfhhgkh336byftpfhhsbdduvjrdc4s57hfj725vvqwctlduqzzmmvz4eu9gwp4aqzp8mfn2aypkq6xh2l4m8zn84ylgzwnzsmhxsutrgpphtmqtwjy8jrksdrayqh84svjwaebavdyxltw9g44xasc4qwpdbd&winpop=1,1,40,40,40,40,40,40,40,0.000%,25.00000,98.90,49.34
+481 /sn/app/Picker/PickerListingModel,1,42,42,42,42,42,42,42,0.000%,23.80952,409.64,38.60
+482 /sn/app/AutoFlow/FireTrigger?command=btnSave_-1_324522_b3df722b-1f3b-4626-8efb-b389ca4ca02b&isSaveNew=false&isEndCall=false&isPopupWindow=0&isPrompted=0&IsAutoSave=undefined&initialStatusCodeId=100093&isfreeflowsave=false&IsSaveandcontinue=false,1,6267,6267,6267,6267,6267,6267,6267,0.000%,.15957,3.44,4.06
+483 /sn/app/crmnextobject/detail/Case,1,1113,1113,1113,1113,1113,1113,1113,0.000%,.89847,18.50,1.06
+484 /sn/app/CRMNextCache/CustomNavigation,1,24,24,24,24,24,24,24,0.000%,41.66667,65.14,45.25
+485 /sn/app/CRMNextCache/GetTeamTree,1,18,18,18,18,18,18,18,0.000%,55.55556,81.38,58.32
+SaveProcessed,2,8864,7558,10171,10171,10171,7558,10171,0.000%,.00503,0.29,0.19
+521 /sn/app/widget/widgetform.aspx,1,79,79,79,79,79,79,79,0.000%,12.65823,184.37,29.01
+522 /sn/app/layouts/validationform.aspx,1,36,36,36,36,36,36,36,0.000%,27.77778,296.47,31.90
+523 /sn/app/CRMNextCache/CustomNavigation,1,23,23,23,23,23,23,23,0.000%,43.47826,67.98,47.89
+524 /sn/app/CRMNextCache/GetTeamTree,1,17,17,17,17,17,17,17,0.000%,58.82353,86.17,62.61
+525 /sn/app/layouts/validationform.aspx?x=kwttpcp5zlgn48qx2nhgwa8ut4rjjakmzdfj89cjs9hyckjhjy7q,1,105,105,105,105,105,105,105,0.000%,9.52381,126.17,210.23
+526 /sn/app/CRMNextCache/CustomNavigation,1,24,24,24,24,24,24,24,0.000%,41.66667,65.14,45.90
+527 /sn/app/CRMNextCache/GetTeamTree,1,17,17,17,17,17,17,17,0.000%,58.82353,86.17,62.61
+528 /sn/app/layouts/validationform.aspx?x=kwttpcp5zlgn48qx2nhgwa8ut4rjjakmzdfj89cjs9hyckjhjy7q,1,700,700,700,700,700,700,700,0.000%,1.42857,31.37,33.81
+529 /sn/app/crmnextobject/detail/Case,1,925,925,925,925,925,925,925,0.000%,1.08108,22.25,1.26
+530 /sn/app/CRMNextCache/CustomNavigation,1,260,260,260,260,260,260,260,0.000%,3.84615,6.01,4.27
+531 /sn/app/CRMNextCache/GetTeamTree,1,20,20,20,20,20,20,20,0.000%,50.00000,73.24,53.71
+OpenCase,1,2206,2206,2206,2206,2206,2206,2206,0.000%,.01536,1.38,0.87
+532 /sn/app/crmnextobject/detail/Case,1,1276,1276,1276,1276,1276,1276,1276,0.000%,.78370,16.13,0.91
+533 /sn/app/CRMNextCache/CustomNavigation,1,45,45,45,45,45,45,45,0.000%,22.22222,34.74,24.72
+534 /sn/app/CRMNextCache/GetTeamTree,1,16,16,16,16,16,16,16,0.000%,62.50000,91.55,67.14
+Waitforstatus,1,1337,1337,1337,1337,1337,1337,1337,0.000%,.04758,1.12,0.16
+550 /sn/app/login/logout,1,53,53,53,53,53,53,53,0.000%,18.86792,116.03,38.75
+551 /sn/app/login/login,1,15,15,15,15,15,15,15,0.000%,66.66667,356.97,66.93
+Logoutwitscr,1,68,68,68,68,68,68,68,0.000%,.13732,1.58,0.42
+552 /sn/app/Login/AttemptLogin?logout=1,1,393,393,393,393,393,393,393,0.000%,2.54453,27.93,6.38
+554 /sn/app/CRMNextCache/CustomNavigation,1,18,18,18,18,18,18,18,0.000%,55.55556,75.90,56.64
+555 /sn/app/CRMNextCache/CustomHeader,1,335,335,335,335,335,335,335,0.000%,2.98507,9.93,3.03
+556 /sn/app/CRMNextCache/GetTeamTree,1,17,17,17,17,17,17,17,0.000%,58.82353,132.24,57.85
+558 /sn/app/CustomView/SaveCutomViewPRSSettings,1,25,25,25,25,25,25,25,0.000%,40.00000,14.38,42.11
+560 /sn/app/Media/ObjectImage,1,3,3,3,3,3,3,3,0.000%,333.33333,1222.66,320.31
+557 /sn/app/Media/ObjectImage,1,16,16,16,16,16,16,16,0.000%,62.50000,229.25,60.06
+559 /sn/app/CustomView/GetFilterCombo,1,28,28,28,28,28,28,28,0.000%,35.71429,68.43,36.03
+561 /sn/app/Media/ObjectImage,1,16,16,16,16,16,16,16,0.000%,62.50000,229.25,60.06
+Loginwithgrv,1,851,851,851,851,851,851,851,0.000%,.52966,16.52,5.55
+562 /sn/app/CustomView/SaveCutomViewPRSSettings,1,326,326,326,326,326,326,326,0.000%,3.06748,1.10,3.25
+563 /sn/app/CustomView/PrepareColumnsAdnDataField,1,42,42,42,42,42,42,42,0.000%,23.80952,230.26,29.48
+564 /sn/app/CustomView/GetViewData,1,42759,42759,42759,42759,42759,42759,42759,0.000%,.02339,1.25,0.03
+565 /sn/app/CustomView/GetViewData,1,43854,43854,43854,43854,43854,43854,43854,0.000%,.02280,1.22,0.03
+566 /sn/app/CRMNextObject/Edit/Case,1,1171,1171,1171,1171,1171,1171,1171,0.000%,.85397,77.02,0.92
+567 /sn/app/CRMNextCache/CustomNavigation,1,21,21,21,21,21,21,21,0.000%,47.61905,65.06,52.04
+568 /sn/app/CRMNextCache/GetTeamTree,1,18,18,18,18,18,18,18,0.000%,55.55556,124.89,58.65
+Opencaseedit,1,88191,88191,88191,88191,88191,88191,88191,0.000%,.00479,1.01,0.04
+569 /sn/app/AutoFlow/FireTrigger?command=btnSave_-1_324615_cde86c53-b3a3-4d09-8240-fdc1aeed0b66&isSaveNew=false&isEndCall=false&isPopupWindow=0&isPrompted=0&IsAutoSave=undefined&initialStatusCodeId=100038&isfreeflowsave=false&IsSaveandcontinue=false,1,9312,9312,9312,9312,9312,9312,9312,0.000%,.10739,2.40,4.24
+570 /sn/app/crmnextobject/detail/Case,1,824,824,824,824,824,824,824,0.000%,1.21359,25.94,1.40
+571 /sn/app/CRMNextCache/CustomNavigation,1,19,19,19,19,19,19,19,0.000%,52.63158,71.91,55.92
+572 /sn/app/CRMNextCache/GetTeamTree,1,16,16,16,16,16,16,16,0.000%,62.50000,140.50,64.15
+573 /sn/app/login/logout,1,53,53,53,53,53,53,53,0.000%,18.86792,116.03,37.39
+574 /sn/app/login/login,1,15,15,15,15,15,15,15,0.000%,66.66667,356.97,65.30
+Logoutwithgrv,1,68,68,68,68,68,68,68,0.000%,.03914,0.45,0.12
+TOTAL,100,2463,42,1831,9095,43854,3,88191,0.000%,.19056,3.24,0.89
